@@ -14,7 +14,7 @@ If you want a pretty front end along with it, check out [Syonix Monolog Viewer](
 
 ## Installation
 ### Using composer
-In your project root, call `composer require syonix/log-viewer-lib`.
+In your project root, call `composer require aglipanci/log-viewer-lib`.
 
 ## Usage
 
